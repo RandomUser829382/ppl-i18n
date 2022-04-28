@@ -20,11 +20,11 @@ msgstr ""
 
 #: ../client/application/game/game.cpp:163
 msgid "Quick pause"
-msgstr "Kurze Pause"
+msgstr "Schnelle Pause"
 
 #: ../client/application/game/game.cpp:169
 msgid "Quick pause %s"
-msgstr "Kurze Pause %s"
+msgstr "Schnelle Pause %s"
 
 #: ../client/application/game/ui/pause_ui.cpp:26
 msgid "Continue"

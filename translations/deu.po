@@ -60,7 +60,7 @@ msgstr "Server konnte nicht kontaktiert werden"
 
 #: ../client/application/game/ui/shared_strings.cpp:15
 msgid "Official levels"
-msgstr "Offizielle Level"
+msgstr "Offizielle Levels"
 
 #: ../client/application/game/ui/shared_strings.cpp:19
 msgid "Community levels"
@@ -256,7 +256,7 @@ msgstr "Schießen"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:174
 msgid "Mouse aim %s"
-msgstr "Mit der Maus zielen %s"
+msgstr "Maus Zielgenauigkeit %s"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:65
 msgid "Checking network..."
@@ -349,7 +349,7 @@ msgstr "Sende Kommentar"
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:359
 msgid "Comment posted"
-msgstr "Kommentar erfolgreich gepostet"
+msgstr "Kommentar gepostet"
 
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:363
@@ -952,7 +952,7 @@ msgstr "Synchronisieren"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:50
 msgid "Sign out"
-msgstr "usloggen"
+msgstr "Ausloggen"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:61
 msgid "Delete account"
@@ -987,7 +987,7 @@ msgstr "Schild: %s"
 #: ../client/application/game/ui/views/account_view.cpp:66
 msgctxt "account_view"
 msgid "Levels"
-msgstr "Level"
+msgstr "Levels"
 
 #. Used in a button. When pressed, shows the scores that a player has
 #. obtained.
@@ -1042,7 +1042,7 @@ msgstr "Genauigkeit: %s"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "Dodge everything and you'll be OK"
-msgstr "Einfach allem ausweichen und es sollte OK sein"
+msgstr "Einfach alles ausweichen und es sollte OK sein"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "aka Dodge This"
